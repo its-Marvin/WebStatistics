@@ -10,6 +10,11 @@ Planned features:
 - Core: Get statistics
 - Core: Save to MySQL
 - Core: Save to File
+- Web: Display Inventorys
+- Web: Display positions
+
+Ideas:
+- Web: Generate map overview
 
 Known Bugs:
 -/-
